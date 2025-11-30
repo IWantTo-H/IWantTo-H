@@ -57,13 +57,6 @@
 
 ---
 
-## 📈 Активность на GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_title=true)](https://github.com/IWantTo-H)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&hide=html,css)](https://github.com/IWantTo-H)
-
----
-
 ## 📫 Как со мной связаться?
 
 *   **Резюме:** [Мое резюме]([https://myrezume](https://disk.yandex.ru/i/w-_fWoxSURb6Uw)) 
